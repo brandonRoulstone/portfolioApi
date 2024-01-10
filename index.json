@@ -40,7 +40,19 @@
             "VueX": "https://cdn-thumbs.imagevenue.com/56/9c/96/ME17D9H8_t.png",
             "Cpp": "https://cdn-thumbs.imagevenue.com/23/68/44/ME17G5FI_t.png",
             "bgimg": "https://cdn-images.imagevenue.com/f1/68/16/ME17G3U0_o.jpg",
-            "skills":"Programming skillset"
+            "skills":"Programming skillset",
+            "htmltext": "Html 5",
+            "csstext": "Css 3",
+            "Bootstraptext": "Bootstrap5",
+            "Jstext": "JavaScript",
+            "nodetext": "NodeJs",
+            "reacttext": "ReactJs",
+            "reduxtext": "Redux",
+            "pythontext": "Python",
+            "reactBootstraptext": "ReactBootstrap",
+            "cpptext": "C++",
+            "vuetext": "VueJs",
+            "vuextext": "Vue X"
         }
     ],
     "projects" : [
