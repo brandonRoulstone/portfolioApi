@@ -52,7 +52,8 @@
             "reactBootstraptext": "ReactBootstrap",
             "cpptext": "C++",
             "vuetext": "VueJs",
-            "vuextext": "Vue X"
+            "vuextext": "Vue X",
+            "viewResume": "View Resume"
         }
     ],
     "projects" : [
