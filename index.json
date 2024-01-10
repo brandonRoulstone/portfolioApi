@@ -53,7 +53,13 @@
             "cpptext": "C++",
             "vuetext": "VueJs",
             "vuextext": "Vue X",
-            "viewResume": "View Resume"
+            "viewResume": "View Resume",
+            "criminalrecord": "None",
+            "homelang": "English",
+            "secondlang": "Afrikaans",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "birth": "13/05/2003"
         }
     ],
     "projects" : [
