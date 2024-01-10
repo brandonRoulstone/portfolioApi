@@ -60,7 +60,13 @@
             "city": "Cape Town",
             "country": "South Africa",
             "birth": "13/05/2003",
-            "viewProjects": "View Projects"
+            "viewProjects": "View Projects",
+            "txt": "Country",
+            "txtTwo": "City",
+            "txtThree": "DOB",
+            "txtFour": "Criminal record",
+            "txtFive": "Home language",
+            "txtSix": "Second language"
         }
     ],
     "projects" : [
