@@ -185,7 +185,31 @@
     ],
     "Resume" : [
         {
-            "link": ""
+            "link": "",
+            "img": "https://cdn-images.imagevenue.com/3f/88/26/ME17GE7S_o.png",
+            "name": "Brandon",
+            "lastname": "Roulstone",
+            "jobtitle": "Web Developer & Designer",
+            "num": "069 219 6897",
+            "email": "brandonRoulstone465@gmail.com",
+            "address": "1 Mile-end Road, Diep River",
+            "domain": "mySiteName.com",
+            "skill": "Skills",
+            "skilltxtOne": "Web developer",
+            "skilltxtTwo": "Web Designer (UI/UX)",
+            "skilltxtThree": "JavaScript (ES6)",
+            "skilltxtFour": "React Js & Vue Js",
+            "skilltxtFive": "Python 3",
+            "skilltxtSix": "Git & Github",
+            "skilltxtSeven": "Html 5 & Css 3",
+            "education": "Education",
+            "school": "Heathfield Secondary School",
+            "dateOne": "2017-2021",
+            "college": "Life Choices Academy",
+            "dateTwo": "2023-2024",
+            "langs": "Languages",
+            "eng": "English",
+            "afr": "Afrikaans"
         }
     ]
 }
