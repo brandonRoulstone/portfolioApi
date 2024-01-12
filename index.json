@@ -131,8 +131,8 @@
             "id": 6,
             "image": "https://cdn-images.imagevenue.com/89/ce/92/ME17GN5M_o.png",
             "name": "Simple Quiz game",
-            "live": "",
-            "Github": "",
+            "live": "https://quiz-game-js-xi.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/quiz-game-js",
             "gittxt":"Github",
             "livetxt":"live",
             "aboutProject": "This project shows how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
@@ -180,6 +180,13 @@
             "personname": "Corne Balie",
             "jobtitle":"Student",
             "text": "Brandon is an exceptional student and a valuable addition to any team. His dedication to learning and his problem-solving skills have consistently impressed me. His passion for coding and his ability to work under pressure make him a standout developer. I have no doubt that he will excel in any future endeavors in the tech industry."
+        },
+        {
+            "id": 6,
+            "image": "https://cdn-images.imagevenue.com/e6/a2/37/ME17GNAI_o.jpg",
+            "personname": "Matthew Swain",
+            "jobtitle":"Student",
+            "text": "Brandon is one of if not the most talented individual that i've had the privilege of working with, his desire and enthusiasm is monumental, his knowledge is envious and his personality is electrifying. His cool - calm and collected and always is there whenever you need a helping hand and is always there to share his wisdom and knowledge. I'm proud and honored to call him my colleague but more importantly my friend.."
         }
     ],
     "contact" : [
