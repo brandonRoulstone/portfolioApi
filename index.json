@@ -23,6 +23,8 @@
     ],
     "about" : [
         {
+            "about": "About Me",
+            "Projects": "Projects",
             "topText": "About Brandon",
             "pText": "I'm Brandon Roulstone, a 20-year-old individual propelled by an unwavering dedication to excellence and an unquenchable thirst for pushing boundaries. Since youth, I've cultivated an exceptional work ethic that fuels my journey in academia and beyond.My pursuit of excellence defines every facet of my life. Be it academics, sports, or delving into the captivating world of coding, I relentlessly strive to surpass expectations. Once I set my sights on a goal, my determination propels me to achieve outstanding results. This unyielding commitment has consistently set me apart, enabling me to deliver nothing short of my best.Beyond my dedication to excellence, I'm fueled by an undying passion for sports. From a tender age, I immersed myself in various sports, sculpting not just my physical prowess but also nurturing invaluable life skills like discipline, teamwork, and unwavering perseverance.Simultaneously, my fascination with coding emerged as a parallel passion. Engaging with coding isn't just about writing lines of code; it's a journey where logic intertwines with creativity, enabling me to tackle complex challenges methodically.The fusion of my athletic endeavors and coding pursuits has been instrumental in honing my ability to think critically and strategically. Whether on the field or behind a screen, the same determination and resilience propel me forward, seeking optimal solutions and pushing boundaries.This dual pursuit isn't merely about mastering two different domains; it's a testament to my adaptability, agility, and unrelenting thirst for growth in diverse arenas.",
             "myImage": "https://cdn-images.imagevenue.com/aa/27/40/ME17G3I0_o.jpg",
@@ -117,23 +119,23 @@
         },
         {
             "id": 5,
-            "image": "https://cdn-thumbs.imagevenue.com/24/62/29/ME17G3V5_t.png",
+            "image": "https://cdn-images.imagevenue.com/8a/6e/cc/ME17GN4M_o.png",
             "name": "React Js todo list",
             "live": "",
-            "Github": "",
+            "Github": "https://github.com/FrostXk9/task-tracker",
             "gittxt":"Github",
             "livetxt":"live",
             "aboutProject": "A todo list in React js showing how I use react hooks like useState() and useEffect() and feature how I work with state and props"
         },
         {
             "id": 6,
-            "image": "https://cdn-thumbs.imagevenue.com/24/62/29/ME17G3V5_t.png",
-            "name": "Cooking...",
+            "image": "https://cdn-images.imagevenue.com/89/ce/92/ME17GN5M_o.png",
+            "name": "Simple Quiz game",
             "live": "",
             "Github": "",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "Cooking.."
+            "aboutProject": "This project shows how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
         }
     ],
     "testimonials" : [
@@ -184,7 +186,12 @@
         {
             "linkedIn": "https://www.linkedin.com/in/brandon-roulstone-4b69a9290/",
             "github": "https://github.com/brandonRoulstone",
-            "gmail": "brandonRoulstone465@gmail.com"
+            "gmail": "brandonRoulstone465@gmail.com",
+            "email": "Email",
+            "ytxt": "Your text goes here",
+            "name": "Name",
+            "lastname": "Lastname",
+            "find": "Reach out to me"
         }
     ],
     "Resume" : [
