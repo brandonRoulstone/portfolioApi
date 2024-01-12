@@ -105,7 +105,7 @@
             "Github": "https://github.com/FrostXk9/E-commerce-website",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "React js and Redux and redux's store this project consists of using fetchApi included using React-Bootstrap"
+            "aboutProject": "React js and Redux and redux's store this project consists of using fetchApi included using React-Bootstrap, still in development will be launched soon"
         },
         {
             "id": 4,
@@ -125,7 +125,7 @@
             "Github": "https://github.com/FrostXk9/task-tracker",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "A todo list in React js showing how I use react hooks like useState() and useEffect() and feature how I work with state and props"
+            "aboutProject": "A todo list in React js showing how I use react hooks like useState() and useEffect() and feature how I work with state and props, still in development will be launched soon"
         },
         {
             "id": 6,
@@ -135,7 +135,27 @@
             "Github": "https://github.com/brandonRoulstone/quiz-game-js",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "This project shows how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
+            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn-images.imagevenue.com/12/c4/bc/ME17GO58_o.png",
+            "name": "Product dashboard",
+            "live": "https://shopping-cart-sable-alpha.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/shoppingCart",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to add and remove from cart and adds up the price of the following products in cart"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn-images.imagevenue.com/9e/ed/fc/ME17GO6K_o.png",
+            "name": "Product dashboard",
+            "live": "https://premium-sneakers-clone.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/premium-sneakers-clone",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "A simple website I designed using html and css"
         }
     ],
     "testimonials" : [
