@@ -163,14 +163,14 @@
             "id": 1,
             "image": "https://cdn-images.imagevenue.com/be/69/e9/ME17GCQ3_o.png",
             "personname": "Tauha Shaik",
-            "jobtitle": "Student",
+            "jobtitle": "Intern",
             "text": "Brandon Roulstone is an exceptional individual in both work ethic and character. His skills are proficient and expertly executed and his projects are a true display of this. His hard work and dedication is a result of his drive and passion for coding and he will be a great asset to all those around him."
         },
         {
             "id": 2,
             "image": "https://cdn-images.imagevenue.com/b6/96/2e/ME17GCV8_o.png",
             "personname": "Damon Raffels",
-            "jobtitle": "Student",
+            "jobtitle": "Intern",
             "text": "Brandon is an extremely dedicated worker, giving his all to every project, task and most importantly, to himself; always improving his skills and growing his knowledge. He works well with others, always willing to listen and see others' perspectives on topics and issues. He has a humbling amount of knowledge of his field of work and has a great presence. I am proud to call him a colleague and a friend"
         },
         {
@@ -182,31 +182,38 @@
         },
         {
             "id": 4,
-            "image": "https://cdn-images.imagevenue.com/66/a3/50/ME17GCS0_o.png",
+            "image": "https://cdn-images.imagevenue.com/11/91/2f/ME17Z3O8_o.jpg",
             "personname": "Khwezilomso Mbobo",
-            "jobtitle": "Student",
+            "jobtitle": "Intern",
             "text": "Brandon is the most knowledgeable person I've ever known in the field of coding. An exception a talent with a one of a kind personality. His friendly character and cheerful spirit uplift all those lucky enough to be around him as he is always ready to help where ever he can"
         },
         {
             "id": 5,
-            "image": "https://cdn-thumbs.imagevenue.com/21/63/d0/ME17G3TA_t.png",
+            "image": "https://cdn-images.imagevenue.com/88/47/1b/ME17Z3NJ_o.jpg",
             "personname": "Warren Jaftha",
-            "jobtitle":"Student",
+            "jobtitle":"Intern",
             "text": "In my short time of knowing Brandon i have found him to be an excellent programmer, his knowledge of programming far exceeds mine and i am a university student and i am saying this, this just reflects how hardworking and determined brandon is when it comes to programming it shows that he will go out of his way when it comes to learning new aspects regarding programming even if it might be scary at times which i think is a good personal quality to have in a software developer for any business."
         },
         {
             "id": 6,
-            "image": "https://cdn-images.imagevenue.com/ba/4f/65/ME17GCQ0_o.png",
+            "image": "https://cdn-images.imagevenue.com/ae/ac/9b/ME17Z3MT_o.jpg",
             "personname": "Corne Balie",
-            "jobtitle":"Student",
+            "jobtitle":"Intern",
             "text": "Brandon is an exceptional student and a valuable addition to any team. His dedication to learning and his problem-solving skills have consistently impressed me. His passion for coding and his ability to work under pressure make him a standout developer. I have no doubt that he will excel in any future endeavors in the tech industry."
         },
         {
-            "id": 6,
-            "image": "https://cdn-images.imagevenue.com/e6/a2/37/ME17GNAI_o.jpg",
+            "id": 7,
+            "image": "https://cdn-images.imagevenue.com/90/17/0d/ME17Z3ME_o.jpg",
             "personname": "Matthew Swain",
-            "jobtitle":"Student",
+            "jobtitle":"Intern",
             "text": "Brandon is one of if not the most talented individual that i've had the privilege of working with, his desire and enthusiasm is monumental, his knowledge is envious and his personality is electrifying. His cool - calm and collected and always is there whenever you need a helping hand and is always there to share his wisdom and knowledge. I'm proud and honored to call him my colleague but more importantly my friend.."
+        },
+        {
+            "id": 8,
+            "image": "https://cdn-images.imagevenue.com/d9/7f/4e/ME17Z3LR_o.png",
+            "personname": "Muhammad Rajah",
+            "jobtitle":"Intern",
+            "text": "Brandon is the epitome of excellence in UX design and web development. With a flair for crafting mesmerizing user experiences and a knack for mastering every aspect of programming, he's the secret weapon every project needs. Working with Brandon guarantees not just results, but a journey filled with creativity, innovation, and unparalleled expertise"
         }
     ],
     "contact" : [
