@@ -159,13 +159,13 @@
         },
         {
             "id": 9,
-            "image": "https://cdn-images.imagevenue.com/9e/ed/fc/ME17GO6K_o.png",
+            "image": "https://cdn-images.imagevenue.com/b5/ed/76/ME17ZGAN_o.png",
             "name": "Jkantic Photography",
             "live": "https://jkantic-photography.vercel.app/",
             "Github": "https://github.com/brandonRoulstone/JkanticPhotography",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "One of my first client projects using react js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site "
+            "aboutProject": "A client project using React Js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site "
         }
     ],
     "testimonials" : [
