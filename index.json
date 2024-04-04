@@ -101,11 +101,11 @@
             "id": 3,
             "image": "https://cdn-images.imagevenue.com/bf/67/47/ME17GJCY_o.png",
             "name": "React Js e-commerce website",
-            "live": "",
+            "live": "https://e-commerce-website-rust-phi.vercel.app/",
             "Github": "https://github.com/FrostXk9/E-commerce-website",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "React js and Redux and redux's store this project consists of using fetchApi included using React-Bootstrap, still in development will be launched soon"
+            "aboutProject": "React js and Redux state management e-commerce store dashboard, this project consists of using fetchApi included using React-Bootstrap, still in development will be launched soon"
         },
         {
             "id": 4,
@@ -115,13 +115,13 @@
             "Github": "https://github.com/brandonRoulstone/js-calculator.git",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "A calculator built of javaScript using advanced Js methods like foreach and etc.."
+            "aboutProject": "A calculator built of javaScript using advanced Js methods like foreach, go calculate something :)"
         },
         {
             "id": 5,
             "image": "https://cdn-images.imagevenue.com/8a/6e/cc/ME17GN4M_o.png",
             "name": "React Js todo list",
-            "live": "",
+            "live": "https://my-list-rose.vercel.app/",
             "Github": "https://github.com/FrostXk9/task-tracker",
             "gittxt":"Github",
             "livetxt":"live",
@@ -156,6 +156,16 @@
             "gittxt":"Github",
             "livetxt":"live",
             "aboutProject": "A simple website I designed using html and css"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn-images.imagevenue.com/9e/ed/fc/ME17GO6K_o.png",
+            "name": "Jkantic Photography",
+            "live": "https://jkantic-photography.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/JkanticPhotography",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "One of my first client projects using react js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site "
         }
     ],
     "testimonials" : [
@@ -214,6 +224,13 @@
             "personname": "Muhammad Rajah",
             "jobtitle":"Intern",
             "text": "Brandon is the epitome of excellence in UX design and web development. With a flair for crafting mesmerizing user experiences and a knack for mastering every aspect of programming, he's the secret weapon every project needs. Working with Brandon guarantees not just results, but a journey filled with creativity, innovation, and unparalleled expertise"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn-images.imagevenue.com/69/c7/41/ME17ZG7K_o.pngg",
+            "personname": "Asithandile Tyulu",
+            "jobtitle":"Intern",
+            "text": "Brandon is a tireless worker fueled by caffeine and a relentless pursuit of excellence, his insatiable curiosity for programming languages makes him an invaluable asset. With a blend of emotional intelligence, humor, and expertise, he brings a vibrant energy to any team fortunate enough to have him."
         }
     ],
     "contact" : [
