@@ -165,7 +165,17 @@
             "Github": "https://github.com/brandonRoulstone/JkanticPhotography",
             "gittxt":"Github",
             "livetxt":"live",
-            "aboutProject": "A client project using React Js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site "
+            "aboutProject": "A client project using React Js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site"
+        },
+        {
+            "id": 10,
+            "image": "https://cdn-images.imagevenue.com/34/35/57/ME17ZRYC_o.png",
+            "name": "Twelve-Two Global",
+            "live": "https://twelve-two.vercel.app/",
+            "Github": "https://github.com/FrostXk9/twelve-two",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "One of my first client projects built in Vue Js this was built for Twelve two a financial coaching company the design was kept clean and needed to capture the clients attention at first this site offers external resources for users and has helped our client Twelve two to sell themselves better, NOTE: we are still in development, though it is complete :)"
         }
     ],
     "testimonials" : [
