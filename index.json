@@ -79,76 +79,6 @@
     "projects" : [
         {
             "id": 1,
-            "image": "https://cdn-thumbs.imagevenue.com/62/ba/42/ME17CTQA_t.png",
-            "name": "E-commerce website",
-            "live": "https://js-end-of-module.vercel.app/",
-            "Github": "https://github.com/brandonRoulstone/Js-End-Of-Module",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "E-commerce website using JavaScript, this project's features consists of using local storage and with that an admin section to add or remove existing products."
-        },
-        {
-            "id": 2,
-            "image": "https://cdn-images.imagevenue.com/a8/33/ad/ME17GJFH_o.png",
-            "name": "Todo list",
-            "live": "https://to-do0-list.vercel.app/",
-            "Github": "https://github.com/brandonRoulstone/To-Do0List",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "a simple Todo list using local storage allows the user to add, remove and sort tasks"
-        },
-        {
-            "id": 3,
-            "image": "https://cdn-images.imagevenue.com/bf/67/47/ME17GJCY_o.png",
-            "name": "React Js e-commerce website",
-            "live": "https://e-commerce-website-rust-phi.vercel.app/",
-            "Github": "https://github.com/FrostXk9/E-commerce-website",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "React js and Redux state management e-commerce store dashboard, this project consists of using fetchApi included using React-Bootstrap, still in development will be launched soon"
-        },
-        {
-            "id": 4,
-            "image": "https://cdn-images.imagevenue.com/7a/18/5b/ME17GJDB_o.png",
-            "name": "Js calculator",
-            "live": "https://js-calculator-beryl.vercel.app/",
-            "Github": "https://github.com/brandonRoulstone/js-calculator.git",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "A calculator built of javaScript using advanced Js methods like foreach, go calculate something :)"
-        },
-        {
-            "id": 5,
-            "image": "https://cdn-images.imagevenue.com/8a/6e/cc/ME17GN4M_o.png",
-            "name": "React Js todo list",
-            "live": "https://my-list-rose.vercel.app/",
-            "Github": "https://github.com/FrostXk9/task-tracker",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "A todo list in React js showing how I use react hooks like useState() and useEffect() and feature how I work with state and props, still in development will be launched soon"
-        },
-        {
-            "id": 6,
-            "image": "https://cdn-images.imagevenue.com/89/ce/92/ME17GN5M_o.png",
-            "name": "Simple Quiz game",
-            "live": "https://quiz-game-js-xi.vercel.app/",
-            "Github": "https://github.com/brandonRoulstone/quiz-game-js",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
-        },
-        {
-            "id": 7,
-            "image": "https://cdn-images.imagevenue.com/12/c4/bc/ME17GO58_o.png",
-            "name": "Product dashboard",
-            "live": "https://shopping-cart-sable-alpha.vercel.app/",
-            "Github": "https://github.com/brandonRoulstone/shoppingCart",
-            "gittxt":"Github",
-            "livetxt":"live",
-            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to add and remove from cart and adds up the price of the following products in cart"
-        },
-        {
-            "id": 8,
             "image": "https://cdn-images.imagevenue.com/9e/ed/fc/ME17GO6K_o.png",
             "name": "Product dashboard",
             "live": "https://premium-sneakers-clone.vercel.app/",
@@ -158,7 +88,17 @@
             "aboutProject": "A simple website I designed using html and css"
         },
         {
-            "id": 9,
+            "id": 2,
+            "image": "https://cdn-images.imagevenue.com/33/5b/b8/ME17ZS3L_o.png",
+            "name": "Product dashboard",
+            "live": "https://w-commerce-4c78f.web.app/",
+            "Github": "https://github.com/brandonRoulstone/w_store_api",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "My Capstone e-commerce project that has real time incorporated features of an ecommerce application built off Vue Js, Node Js for a server, some features like a log in system that checks a user by its role, go buy you something ;)"
+        },
+        {
+            "id": 3,
             "image": "https://cdn-images.imagevenue.com/b5/ed/76/ME17ZGAN_o.png",
             "name": "Jkantic Photography",
             "live": "https://jkantic-photography.vercel.app/",
@@ -168,7 +108,7 @@
             "aboutProject": "A client project using React Js, this project showcases Jkantic photography's business portfolio, I kept the design simple to the clients taste go have a look updates are still being made to the site"
         },
         {
-            "id": 10,
+            "id": 4,
             "image": "https://cdn-images.imagevenue.com/34/35/57/ME17ZRYC_o.png",
             "name": "Twelve-Two Global",
             "live": "https://twelve-two.vercel.app/",
@@ -176,6 +116,76 @@
             "gittxt":"Github",
             "livetxt":"live",
             "aboutProject": "One of my first client projects built in Vue Js this was built for Twelve two a financial coaching company the design was kept clean and needed to capture the clients attention at first this site offers external resources for users and has helped our client Twelve two to sell themselves better, NOTE: we are still in development, though it is complete :)"
+        },
+        {
+            "id": 5,
+            "image": "https://cdn-thumbs.imagevenue.com/62/ba/42/ME17CTQA_t.png",
+            "name": "E-commerce website",
+            "live": "https://js-end-of-module.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/Js-End-Of-Module",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "E-commerce website using JavaScript, this project's features consists of using local storage and with that an admin section to add or remove existing products."
+        },
+        {
+            "id": 6,
+            "image": "https://cdn-images.imagevenue.com/a8/33/ad/ME17GJFH_o.png",
+            "name": "Todo list",
+            "live": "https://to-do0-list.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/To-Do0List",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "a simple Todo list using local storage allows the user to add, remove and sort tasks"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn-images.imagevenue.com/bf/67/47/ME17GJCY_o.png",
+            "name": "React Js e-commerce website",
+            "live": "https://e-commerce-website-rust-phi.vercel.app/",
+            "Github": "https://github.com/FrostXk9/E-commerce-website",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "React js and Redux state management e-commerce store dashboard, this project consists of using fetchApi included using React-Bootstrap, still in development will be launched soon"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn-images.imagevenue.com/7a/18/5b/ME17GJDB_o.png",
+            "name": "Js calculator",
+            "live": "https://js-calculator-beryl.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/js-calculator.git",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "A calculator built of javaScript using advanced Js methods like foreach, go calculate something :)"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn-images.imagevenue.com/8a/6e/cc/ME17GN4M_o.png",
+            "name": "React Js todo list",
+            "live": "https://my-list-rose.vercel.app/",
+            "Github": "https://github.com/FrostXk9/task-tracker",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "A todo list in React js showing how I use react hooks like useState() and useEffect() and feature how I work with state and props, still in development will be launched soon"
+        },
+        {
+            "id": 10,
+            "image": "https://cdn-images.imagevenue.com/89/ce/92/ME17GN5M_o.png",
+            "name": "Simple Quiz game",
+            "live": "https://quiz-game-js-xi.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/quiz-game-js",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to check if the answer is correct"
+        },
+        {
+            "id": 11,
+            "image": "https://cdn-images.imagevenue.com/12/c4/bc/ME17GO58_o.png",
+            "name": "Product dashboard",
+            "live": "https://shopping-cart-sable-alpha.vercel.app/",
+            "Github": "https://github.com/brandonRoulstone/shoppingCart",
+            "gittxt":"Github",
+            "livetxt":"live",
+            "aboutProject": "This project states how I can work with conditional statements, functions, event listeners and much more it carry out simple functionalities like to add and remove from cart and adds up the price of the following products in cart"
         }
     ],
     "testimonials" : [
